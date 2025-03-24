@@ -150,7 +150,7 @@ int main () {
             printf("A carta 2 venceu!\n");
         }
         
-    printf("Muito obrigado por jogar o Super-Trunfo! Nos vemos na próxima!");
+    printf("Muito obrigado por jogar o Super-Trunfo! Nos vemos na próxima!!");
             
     }
 
